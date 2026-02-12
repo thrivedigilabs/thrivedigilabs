@@ -31,7 +31,7 @@ const HeroSection = () => {
 
             {/* Sub-headline */}
             <p className="text-lg md:text-xl text-muted-foreground max-w-xl animate-fade-up stagger-2">
-              Performance , websites & automation — delivered at speed. No delays. No fluff. Just results.
+              Performance marketing, websites & automation — delivered at speed. No delays. No fluff. Just results.
             </p>
 
             {/* CTAs */}
