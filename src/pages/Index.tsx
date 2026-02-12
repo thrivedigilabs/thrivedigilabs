@@ -14,7 +14,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>ThriveDigiLabs - AI-Powered Performance Marketing Agency</title>
+        <title>ThriveDigiLabs  AI-Powered Performance Marketing Agency</title>
         <meta
           name="description"
           content="Scale faster with AI-driven performance marketing. Meta Ads, Google Ads, websites, funnels & automation. Fast execution, measurable results. Book a free strategy call."
